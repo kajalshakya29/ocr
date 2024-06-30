@@ -1,1 +1,1 @@
-# ocr
+OCR_Applicattion
